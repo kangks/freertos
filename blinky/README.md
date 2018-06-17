@@ -7,7 +7,7 @@
 5. Add the `blink.c` and `blink.h`
 6. In the popup windows for file operation, choose `BASE_DIR_ROOT`
 7. Note: If it asks to adjust compiler include-paths, choose No. Otherwise you have to recreate the .cmd file
-![alt text]("https://github.com/kangks/freertos/tree/master/blinky/images/Link file in CCS.png")
+![alt text]("https://github.com/kangks/freertos/tree/master/blinky/images/Link_file_in_CCS.png")
 8. You can reorganize the .c and .h by dragging them into include and source
 6. Open up `aws_demo_runner.c`
 7. Add the external declaration on the top, `extern void vStartLEDblinkTask(void);`
